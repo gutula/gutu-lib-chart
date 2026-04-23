@@ -3,6 +3,7 @@ const summary = {
   "repoName": "gutu-lib-chart",
   "packageId": "chart",
   "displayName": "Chart",
+  "packageCount": 1,
   "group": "UI Foundation",
   "maturity": "Hardened",
   "description": "Canonical ECharts-backed chart presets and rendering contracts.",

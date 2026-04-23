@@ -35,6 +35,7 @@ Provides reusable chart primitives so dashboards and reports can share a consist
 | Package ID | `chart` |
 | Display Name | Chart |
 | Import Name | `@platform/chart` |
+| Canonical Namespace Target | `@gutu/chart` |
 | Version | `0.1.0` |
 | UI Surface | Mixed runtime helpers |
 | Consumption Model | Imports + typed UI primitives |
@@ -48,6 +49,7 @@ Provides reusable chart primitives so dashboards and reports can share a consist
 | Dev Dependencies | None |
 | React Runtime | Yes |
 | Workspace Scoped | No |
+| Legacy Compatibility IDs | `@platform/chart` |
 
 ### Dependency interpretation
 
